@@ -25,3 +25,18 @@ cd JAX-Tutorial
 pip install -r requirements.txt
 ```
 
+## Jupyter notebooks
+
+Examples in this folder are presented through Jupyter notebooks. To run the notebooks, you need to install Jupyter:
+
+```bash
+pip install jupyter
+```
+
+Then, you can start a Jupyter notebook server by running:
+
+```bash
+jupyter <notebook>
+```
+
+
